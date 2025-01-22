@@ -42,6 +42,16 @@
 
 - [x] 高等数学96-98讲，三矢量的二重矢积，平面方程（点法式，一般式，截距式）空间直线方程（点向式，参数式，两点式，一般式）平面束方程，空间一点到平面距离
 
+#### 周三
+
+周三遇到了一些不可抗的因素，没有学高数，也没有学大物（详情请看与git和vs不得不说的故事）
+
+[第一章：推送](https://github.com/xixiluyaoyao/Code/blob/main/README.md)
+
+[第二章：分支](https://github.com/xixiluyaoyao/Code/blob/develop/README.md)
+
+
+
 
 
 
